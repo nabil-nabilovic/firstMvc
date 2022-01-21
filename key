@@ -1,0 +1,2 @@
+kubeadm join 192.168.1.27:6443 --token yenngq.gyy0pktaracizxg7 \
+	--discovery-token-ca-cert-hash sha256:ac7b9d7e8194e972d059c3092e373b3773c36010baa0231630625ad33df42c03 
